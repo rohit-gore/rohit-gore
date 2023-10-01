@@ -54,7 +54,7 @@
 
 <hr>
 
-[![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jishnu2608&theme=dracula)](https://github.com/Jishnu2608/github-readme-activity-graph)
+[![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohit-gore&theme=dracula)](https://github.com/rohit-gore/github-readme-activity-graph)
 
 <hr>
 
