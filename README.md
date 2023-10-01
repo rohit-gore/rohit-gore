@@ -8,7 +8,7 @@
 <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😎;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
 </p>
 
-<h1 align="center"> Hello Guys!🤠, Jishnu's Here 🚩</h1>
+<h1 align="center"> Hello Guys!🤠, Rohit Here 🚩</h1>
 
 <!-- <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -32,7 +32,7 @@
 
 <hr>
 
-| ![Jishnu's Github Stats](https://github-readme-stats.vercel.app/api?username=Jishnu2608&show_icons=true&theme=radical) | ![Jishnu GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jishnu2608&theme=radical)                                                                                                           |
+| ![Rohit's Github Stats](https://github-readme-stats.vercel.app/api?username=Jishnu2608&show_icons=true&theme=radical) | ![Rohit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jishnu2608&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jishnu2608&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jishnu2608&theme=radical&utcOffset=8) |
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jishnu2608&theme=2077) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jishnu2608&theme=2077)
@@ -54,7 +54,7 @@
 
 <hr>
 
-[![Jishnu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jishnu2608&theme=dracula)](https://github.com/Jishnu2608/github-readme-activity-graph)
+[![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jishnu2608&theme=dracula)](https://github.com/Jishnu2608/github-readme-activity-graph)
 
 <hr>
 
@@ -66,9 +66,9 @@
 <!-- <hr> -->
 
 <p align="center" align='right'>
-<a target="_blank"href="https://www.linkedin.com/in/jishnudeep-borah/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a target="_blank"href="mailto: jishnudeepborah@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a target="_blank"href="https://www.instagram.com/_reonnie_/"><img alt="Twitter" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a target="_blank"href="https://www.linkedin.com/in/rohit-gore-12b91623a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank"href="mailto: rohitgore0904@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a target="_blank"href=""><img alt="Twitter" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
  
 <hr>
