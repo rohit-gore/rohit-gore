@@ -20,22 +20,22 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 </h3>
 
-<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Jishnu2608&style=flat-square&color=22CCB2">
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-rohit-gore&style=flat-square&color=22CCB2">
 <hr>
 <br>
 
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jishnu2608&theme=2077"  display=block width=100% height=auto  alt="1" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit-gore&theme=2077"  display=block width=100% height=auto  alt="1" >
  
 
 ## 📊 GitHub Activity
 
 <hr>
 
-| ![Rohit's Github Stats](https://github-readme-stats.vercel.app/api?username=Jishnu2608&show_icons=true&theme=radical) | ![Rohit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jishnu2608&theme=radical)                                                                                                           |
+| ![Rohit's Github Stats](https://github-readme-stats.vercel.app/api?username=rohit-gore&show_icons=true&theme=radical) | ![Rohit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohit-gore&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jishnu2608&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jishnu2608&theme=radical&utcOffset=8) |
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jishnu2608&theme=2077) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jishnu2608&theme=2077)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-gore&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohit-gore&theme=radical&utcOffset=8) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohit-gore&theme=2077) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohit-gore&theme=2077)
 
 <!-- color=nord_dark -->
 
